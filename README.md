@@ -4,7 +4,7 @@ Developed as part of Andrew Mead's Node.js [course](https://www.udemy.com/course
 
 To power up & start the project you may follow the next steps:
 
-- Make sure you have node installed. Just go on [official Node.js website](https://nodejs.org/) and download the installer. You can check with `$ node -v`
+- Make sure you have node installed. Just go to the [official Node.js website](https://nodejs.org/) and download the installer. You can check it afterwards with `$ node -v`
 - Clone the repository. `git clone https://github.com/suraniadi/weather-app-node.git`
 - Use npm / yarn to install the required packages.
 - You can get [nodemon](https://www.npmjs.com/package/nodemon) as a global package for automatic updates.
